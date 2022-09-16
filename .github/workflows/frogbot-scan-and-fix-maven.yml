@@ -60,5 +60,5 @@ jobs:
           JF_WATCHES: "default_watch"
 
           # [Optional]
-          # JFrog project. Learn more about it here: https://www.jfrog.com/confluence/display/JFROG/Projects
+          # JFrog project. Learn more about it  here: https://www.jfrog.com/confluence/display/JFROG/Projects
           # JF_PROJECT: <project-key>
