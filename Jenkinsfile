@@ -24,7 +24,7 @@ pipeline {
         // [Mandatory]
         // GitHub enterprise server organization namespace
         JF_GIT_OWNER = "VigneshC-Jfrog"
-        JF_GIT_REPO = "Xray-Assessment"
+        JF_GIT_REPO = "mavenrepo"
 
         // [Mandatory]
         // API endpoint to GitHub enterprise server
